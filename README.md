@@ -40,8 +40,9 @@ To assess the effectiveness of a social media advertising campaign and gain insi
 ## 📁 File
 - `Social media campaign.pbix`: Power BI file with complete visualizations and insights
 
-## 🔗 Connect with Me
-[📎 LinkedIn Profile]
+## 🔗 LinkedIn Post
+Check out the post and share your thoughts: [View on LinkedIn] 
+https://www.linkedin.com/posts/biswasroy-swarnaprava_powerbi-dashboarddesign-datavisualization-activity-7356408930694021120-Ayf9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADEg4fcB3UQzUUILFp_lMq-vI2YnuiBQqPI
 
 ---
 
